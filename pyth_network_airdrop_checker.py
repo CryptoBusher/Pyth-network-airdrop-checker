@@ -2,7 +2,7 @@ import requests
 from time import sleep
 
 
-def check_airdrop(_wallet: str, proxy: str = None) -> str:
+def check_airdrop(_wallet: str, proxy: str = None):
     url = f'https://airdrop.pyth.network/api/grant/v1/evm_breakdown?identity={_wallet}'
 
     if proxy:
@@ -23,8 +23,6 @@ if __name__ == "__main__":
 
     with open("proxies.txt", "r") as file:
         proxies = [p.strip() for p in file]
-
-
 
     for i, wallet in enumerate(wallets):
         try:
