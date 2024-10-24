@@ -2,7 +2,7 @@
 
 Подробнее о дропе [описали челы из IDO research](https://t.me/idoresearch/2805).
 
-Связь с создателем: https://t.me/CrytoBusher <br>
+Связь с создателем: https://t.me/CryptoBusher <br>
 Если ты больше по Твиттеру: https://twitter.com/CryptoBusher <br>
 
 Залетай сюда, чтоб не пропускать дропы подобных скриптов: https://t.me/CryptoKiddiesClub <br>
